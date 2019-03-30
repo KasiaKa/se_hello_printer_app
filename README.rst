@@ -43,7 +43,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
     $ source /usr/local/bin/virtualenvwrapper.sh # nie trzeba, jeśli już w .bashrc
     $ workon wsb-simple-flask-app
-
+add
     ...
 
     # deaktywacja virtualenv
@@ -54,14 +54,14 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ::
 
   .. image:: https://travis-ci.org/KasiaKa/se_hello_printer_app.svg?branch=master
-  :target: https://travis-ci.org/KasiaKa/se_hello_printer_app
+     :target: https://travis-ci.org/KasiaKa/se_hello_printer_app
 
 - Monitoring z StatusCake
 
   ::
 
   .. image:: https://app.statuscake.com/button/index.php?Track=zZ2w6ylLmT&Days=1&Design=7
-  :target: https://www.statuscake.com
+     :target: https://www.statuscake.com
 
     ...
 
