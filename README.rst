@@ -53,15 +53,7 @@ add
 
   ::
 
-  .. image:: https://travis-ci.org/KasiaKa/se_hello_printer_app.svg?branch=master
-     :target: https://travis-ci.org/KasiaKa/se_hello_printer_app
-
-- Monitoring z StatusCake
-
-  ::
-
-  .. image:: https://app.statuscake.com/button/index.php?Track=zZ2w6ylLmT&Days=1&Design=7
-     :target: https://www.statuscake.com
+ 
 
     ...
 
@@ -118,3 +110,15 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+Badge
+
+.. image:: https://travis-ci.org/KasiaKa/se_hello_printer_app.svg?branch=master
+   :target: https://travis-ci.org/KasiaKa/se_hello_printer_app
+
+- Monitoring z StatusCake
+
+  ::
+
+.. image:: https://app.statuscake.com/button/index.php?Track=zZ2w6ylLmT&Days=1&Design=7
+   :target: https://www.statuscake.com
